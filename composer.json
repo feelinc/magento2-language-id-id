@@ -1,0 +1,29 @@
+{
+    "name": "sulaeman/magento2-language-id-id",
+    "description": "Magento2 Indonesian Language Pack (id_ID)",
+    "version": "100.0.1",
+    "type": "magento2-language",
+    "homepage": "http://feelinc.github.io/magento2-language-fr-fr",
+    "keywords": [
+        "magento",
+        "magento2",
+        "magento 2",
+        "plugin",
+        "module",
+        "indonesia",
+        "indonesian",
+        "language pack",
+        "id_ID",
+        "i18n",
+        "id"
+    ],
+    "license": [
+        "MIT"
+    ],
+    "require": {},
+    "autoload": {
+        "files": [
+            "registration.php"
+        ]
+    }
+}
