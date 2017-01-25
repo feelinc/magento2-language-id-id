@@ -801,18 +801,18 @@ Unique Value,Isian Unik,module,Magento_Catalog
 Unique Value (not shared with other products),Isian Unik (tidak terdapat pada produk lain),module,Magento_Catalog
 Not shared with other products.,Tidak terdapat pada produk lain.,module,Magento_Catalog
 Input Validation for Store Owner,Valiasi isian untuk Pemilik Toko,module,Magento_Catalog
-Add to Column Options,Add to Column Options,module,Magento_Catalog
-"Select ""Yes"" to add this attribute to the list of column options in the product grid.","Select ""Yes"" to add this attribute to the list of column options in the product grid.",module,Magento_Catalog
-Use in Filter Options,Use in Filter Options,module,Magento_Catalog
-"Select ""Yes"" to add this attribute to the list of filter options in the product grid.","Select ""Yes"" to add this attribute to the list of filter options in the product grid.",module,Magento_Catalog
+Add to Column Options,Tambah ke Kolom Opsi,module,Magento_Catalog
+"Select ""Yes"" to add this attribute to the list of column options in the product grid.","Pilih ""Iya"" untuk menambahkan atribut ini ke daftar opsi kolom di grid produk.",module,Magento_Catalog
+Use in Filter Options,Gunakan Opsi Filter,module,Magento_Catalog
+"Select ""Yes"" to add this attribute to the list of filter options in the product grid.","Pilih ""Iya"" untuk menambahkan atribut ini ke daftar opsi filter di grid produk.",module,Magento_Catalog
 Store View,Store View,module,Magento_Catalog
 Website,Website,module,Magento_Catalog
 Global,Global,module,Magento_Catalog
 Scope,Scope,module,Magento_Catalog
 Declare attribute value saving scope.,Declare attribute value saving scope.,module,Magento_Catalog
 Storefront Properties,Storefront Properties,module,Magento_Catalog
-Use in Search,Use in Search,module,Magento_Catalog
-Visible in Advanced Search,Visible in Advanced Search,module,Magento_Catalog
+Use in Search,Gunakan dalam Pencarian,module,Magento_Catalog
+Visible in Advanced Search,Terlihat di Pencarian Lanjutan,module,Magento_Catalog
 Comparable on Storefront,Comparable on Storefront,module,Magento_Catalog
 Use for Promo Rule Conditions,Use for Promo Rule Conditions,module,Magento_Catalog
 Enable WYSIWYG,Enable WYSIWYG,module,Magento_Catalog
@@ -6447,8 +6447,8 @@ Please enter a date between %min and %max.,Please enter a date between %min and 
 Please enter a valid year (1900-%1).,Please enter a valid year (1900-%1).,lib,lib/web/mage/validation/validation.js
 Please enter a valid day (1-%1).,Please enter a valid day (1-%1).,lib,lib/web/mage/validation/validation.js
 Please enter a date from the past.,Please enter a date from the past.,lib,lib/web/mage/validation/validation.js
-We could not detect a size.,We could not detect a size.,module,Magento_Backend
-We don't recognize or support this file extension type.,We don't recognize or support this file extension type.,module,Magento_Backend
+We could not detect a size.,Tidak dapat mendeteksi ukuran.,module,Magento_Backend
+We don't recognize or support this file extension type.,Tidak dapat mengenali atau mendukung jenis berkas dengan extensi ini.,module,Magento_Backend
 This payment is not available,This payment is not available,module,Magento_Braintree
 MM,MM,module,Magento_Braintree
 YY,YY,module,Magento_Braintree
@@ -6685,37 +6685,37 @@ Payment from Specific Countries,Payment from Specific Countries,module,Magento_A
 Minimum Order Total,Minimum Order Total,module,Magento_Authorizenet
 Maximum Order Total,Maximum Order Total,module,Magento_Authorizenet
 Sort Order,Sort Order,module,Magento_Authorizenet
-Allow everything,Allow everything,module,Magento_Backend
+Allow everything,Perbolehkan semuanya,module,Magento_Backend
 Magento Admin,Magento Admin,module,Magento_Backend
-Global Search,Global Search,module,Magento_Backend
+Global Search,Pencarian Menyeluruh,module,Magento_Backend
 Marketing,Marketing,module,Magento_Backend
-SEO & Search,SEO & Search,module,Magento_Backend
-User Content,User Content,module,Magento_Backend
-Content,Content,module,Magento_Backend
+SEO & Search,SEO & Pencarian,module,Magento_Backend
+User Content,Konten Pengguna,module,Magento_Backend
+Content,Konten,module,Magento_Backend
 Elements,Elements,module,Magento_Backend
 Design,Design,module,Magento_Backend
-Schedule,Schedule,module,Magento_Backend
-Settings,Settings,module,Magento_Backend
-All Stores,All Stores,module,Magento_Backend
-Attributes,Attributes,module,Magento_Backend
-Other Settings,Other Settings,module,Magento_Backend
+Schedule,Jadwal,module,Magento_Backend
+Settings,Pengaturan,module,Magento_Backend
+All Stores,Semua Toko,module,Magento_Backend
+Attributes,Attribut,module,Magento_Backend
+Other Settings,Pengaturan Lainnya,module,Magento_Backend
 Data Transfer,Data Transfer,module,Magento_Backend
 Magento Connect,Magento Connect,module,Magento_Backend
 Connect Manager,Connect Manager,module,Magento_Backend
 Package Extensions,Package Extensions,module,Magento_Backend
-Tools,Tools,module,Magento_Backend
+Tools,Perkakas,module,Magento_Backend
 Web Setup Wizard,Web Setup Wizard,module,Magento_Backend
-Currency,Currency,module,Magento_Backend
-Communications,Communications,module,Magento_Backend
+Currency,Mata Uang,module,Magento_Backend
+Communications,Komunikasi,module,Magento_Backend
 Services,Services,module,Magento_Backend
 Advanced,Advanced,module,Magento_Backend
 Disable Modules Output,Disable Modules Output,module,Magento_Backend
-Store Email Addresses,Store Email Addresses,module,Magento_Backend
+Store Email Addresses,Alamat Email Toko,module,Magento_Backend
 Custom Email 1,Custom Email 1,module,Magento_Backend
-Sender Email,Sender Email,module,Magento_Backend
-Sender Name,Sender Name,module,Magento_Backend
+Sender Email,Email Pengirim,module,Magento_Backend
+Sender Name,Nama Pengirim,module,Magento_Backend
 Custom Email 2,Custom Email 2,module,Magento_Backend
-General Contact,General Contact,module,Magento_Backend
+General Contact,Kontak Umum,module,Magento_Backend
 Sales Representative,Sales Representative,module,Magento_Backend
 Customer Support,Customer Support,module,Magento_Backend
 Developer,Developer,module,Magento_Backend
@@ -6729,8 +6729,8 @@ Warning! Enabling this feature is not recommended on production environments bec
 Minify Html,Minify Html,module,Magento_Backend
 Minification is not applied in developer mode.,Minification is not applied in developer mode.,module,Magento_Backend
 Translate Inline,Translate Inline,module,Magento_Backend
-Enabled for Storefront,Enabled for Storefront,module,Magento_Backend
-Enabled for Admin,Enabled for Admin,module,Magento_Backend
+Enabled for Storefront,Aktifkan untuk Storefront,module,Magento_Backend
+Enabled for Admin,Aktifkan untuk Admin,module,Magento_Backend
 "Translate, blocks and other output caches should be disabled for both Storefront and Admin inline translations.","Translate, blocks and other output caches should be disabled for both Storefront and Admin inline translations.",module,Magento_Backend
 JavaScript Settings,JavaScript Settings,module,Magento_Backend
 Merge JavaScript Files,Merge JavaScript Files,module,Magento_Backend
@@ -6743,41 +6743,41 @@ Image Processing Settings,Image Processing Settings,module,Magento_Backend
 Image Adapter,Image Adapter,module,Magento_Backend
 Static Files Settings,Static Files Settings,module,Magento_Backend
 Sign Static Files,Sign Static Files,module,Magento_Backend
-Country Options,Country Options,module,Magento_Backend
-Allow Countries,Allow Countries,module,Magento_Backend
-Default Country,Default Country,module,Magento_Backend
+Country Options,Opsi Negara,module,Magento_Backend
+Allow Countries,Negara yang Diperbolehkan,module,Magento_Backend
+Default Country,Negara Bawaan,module,Magento_Backend
 European Union Countries,European Union Countries,module,Magento_Backend
-Top destinations,Top destinations,module,Magento_Backend
+Top destinations,Tujuan utama,module,Magento_Backend
 Locale Options,Locale Options,module,Magento_Backend
-Timezone,Timezone,module,Magento_Backend
+Timezone,Zona Waktu,module,Magento_Backend
 Locale,Locale,module,Magento_Backend
-First Day of Week,First Day of Week,module,Magento_Backend
-Weekend Days,Weekend Days,module,Magento_Backend
-Store Name,Store Name,module,Magento_Backend
-Store Phone Number,Store Phone Number,module,Magento_Backend
-Store Hours of Operation,Store Hours of Operation,module,Magento_Backend
-Country,Country,module,Magento_Backend
-Region/State,Region/State,module,Magento_Backend
-ZIP/Postal Code,ZIP/Postal Code,module,Magento_Backend
-City,City,module,Magento_Backend
-Street Address,Street Address,module,Magento_Backend
-Street Address Line 2,Street Address Line 2,module,Magento_Backend
-VAT Number,VAT Number,module,Magento_Backend
-Single-Store Mode,Single-Store Mode,module,Magento_Backend
-Enable Single-Store Mode,Enable Single-Store Mode,module,Magento_Backend
-This setting will not be taken into account if system has more than one store view.,This setting will not be taken into account if system has more than one store view.,module,Magento_Backend
-Mail Sending Settings,Mail Sending Settings,module,Magento_Backend
-Disable Email Communications,Disable Email Communications,module,Magento_Backend
+First Day of Week,Hari Pertama dalam Minggu,module,Magento_Backend
+Weekend Days,Hari Weekend,module,Magento_Backend
+Store Name,Nama Toko,module,Magento_Backend
+Store Phone Number,Nomor Telpon Toko,module,Magento_Backend
+Store Hours of Operation,Jam Operasional Toko,module,Magento_Backend
+Country,Negara,module,Magento_Backend
+Region/State,Provinsi,module,Magento_Backend
+ZIP/Postal Code,Kode Pos,module,Magento_Backend
+City,Kota,module,Magento_Backend
+Street Address,Alamat,module,Magento_Backend
+Street Address Line 2,Alamat baris 2,module,Magento_Backend
+VAT Number,Nomor VAT,module,Magento_Backend
+Single-Store Mode,Mode Single-Store,module,Magento_Backend
+Enable Single-Store Mode,Aktifkan Mode Single-Store,module,Magento_Backend
+This setting will not be taken into account if system has more than one store view.,Pengaturan ini tidak akan berfungsi jika sistem memiliki lebih dari satu Store View.,module,Magento_Backend
+Mail Sending Settings,Pengaturan Pengiriman Mail,module,Magento_Backend
+Disable Email Communications,Nonaktifkan Komunikasi Email,module,Magento_Backend
 Host,Host,module,Magento_Backend
 Port (25),Port (25),module,Magento_Backend
 Set Return-Path,Set Return-Path,module,Magento_Backend
 Return-Path Email,Return-Path Email,module,Magento_Backend
 Admin,Admin,module,Magento_Backend
-Admin User Emails,Admin User Emails,module,Magento_Backend
-Forgot Password Email Template,Forgot Password Email Template,module,Magento_Backend
-"Email template chosen based on theme fallback when ""Default"" option is selected.","Email template chosen based on theme fallback when ""Default"" option is selected.",module,Magento_Backend
-Forgot and Reset Email Sender,Forgot and Reset Email Sender,module,Magento_Backend
-Startup Page,Startup Page,module,Magento_Backend
+Admin User Emails,Email Admin Pengguna,module,Magento_Backend
+Forgot Password Email Template,Template Email Lupa Kata Sandi,module,Magento_Backend
+"Email template chosen based on theme fallback when ""Default"" option is selected.","Template email dipilih berdasarkan theme ketika opsi ""Default"" yang dipilih.",module,Magento_Backend
+Forgot and Reset Email Sender,Email Pengirim untuk Lupa dan Reset Kata Sandi,module,Magento_Backend
+Startup Page,Halaman Awal,module,Magento_Backend
 Admin Base URL,Admin Base URL,module,Magento_Backend
 Use Custom Admin URL,Use Custom Admin URL,module,Magento_Backend
 Custom Admin URL,Custom Admin URL,module,Magento_Backend
@@ -6785,21 +6785,21 @@ Custom Admin URL,Custom Admin URL,module,Magento_Backend
 Use Custom Admin Path,Use Custom Admin Path,module,Magento_Backend
 Custom Admin Path,Custom Admin Path,module,Magento_Backend
 You will have to sign in after you save your custom admin path.,You will have to sign in after you save your custom admin path.,module,Magento_Backend
-Security,Security,module,Magento_Backend
-Recovery Link Expiration Period (hours),Recovery Link Expiration Period (hours),module,Magento_Backend
-Please enter a number 1 or greater in this field.,Please enter a number 1 or greater in this field.,module,Magento_Backend
-Add Secret Key to URLs,Add Secret Key to URLs,module,Magento_Backend
+Security,Keamanan,module,Magento_Backend
+Recovery Link Expiration Period (hours),Periode Kadaluarsa dari Tautan Pemulihan (jam),module,Magento_Backend
+Please enter a number 1 or greater in this field.,Masukan nomor 1 atau lebih besar dalam isian ini.,module,Magento_Backend
+Add Secret Key to URLs,Tambah Kata Kunci dalam URLs,module,Magento_Backend
 Login is Case Sensitive,Login is Case Sensitive,module,Magento_Backend
-Admin Session Lifetime (seconds),Admin Session Lifetime (seconds),module,Magento_Backend
-Please enter at least 60 and at most 31536000 (one year).,Please enter at least 60 and at most 31536000 (one year).,module,Magento_Backend
-Enable Charts,Enable Charts,module,Magento_Backend
+Admin Session Lifetime (seconds),Masa Waktu Sesi Admin (detik),module,Magento_Backend
+Please enter at least 60 and at most 31536000 (one year).,Silahkan isi paling tidak 60 sampai 31536000 (satu tahun).,module,Magento_Backend
+Enable Charts,Aktifkan Charts,module,Magento_Backend
 Web,Web,module,Magento_Backend
-Url Options,Url Options,module,Magento_Backend
-Add Store Code to Urls,Add Store Code to Urls,module,Magento_Backend
+Url Options,Opsi Url,module,Magento_Backend
+Add Store Code to Urls,Tambah Kode Toko ke Urls,module,Magento_Backend
 "
                         <strong style=""color:red"">Warning!</strong> When using Store Code in URLs, in some cases system may not work properly if URLs without Store Codes are specified in the third party services (e.g. PayPal etc.).
                     ","
-                        <strong style=""color:red"">Warning!</strong> When using Store Code in URLs, in some cases system may not work properly if URLs without Store Codes are specified in the third party services (e.g. PayPal etc.).
+                        <strong style=""color:red"">Peringatan!</strong> Ketika menggunakan Kode Toko di URLs, kemungkinan sistem tidak akan berfungsi dengan seharusnya jika terdapat URLs yang digunakan dalam layanan lain (contoh. PayPal dan lainnya.).
                     ",module,Magento_Backend
 Auto-redirect to Base URL,Auto-redirect to Base URL,module,Magento_Backend
 Search Engine Optimization,Search Engine Optimization,module,Magento_Backend
@@ -6823,7 +6823,7 @@ Use Secure URLs in Admin,Use Secure URLs in Admin,module,Magento_Backend
 Enable HTTP Strict Transport Security (HSTS),Enable HTTP Strict Transport Security (HSTS),module,Magento_Backend
 Upgrade Insecure Requests,Upgrade Insecure Requests,module,Magento_Backend
 Offloader header,Offloader header,module,Magento_Backend
-Default Pages,Default Pages,module,Magento_Backend
+Default Pages,Halaman Default,module,Magento_Backend
 Default Web URL,Default Web URL,module,Magento_Backend
 Default No-route URL,Default No-route URL,module,Magento_Backend
 Session Validation Settings,Session Validation Settings,module,Magento_Backend
@@ -6832,7 +6832,7 @@ Validate HTTP_VIA,Validate HTTP_VIA,module,Magento_Backend
 Validate HTTP_X_FORWARDED_FOR,Validate HTTP_X_FORWARDED_FOR,module,Magento_Backend
 Validate HTTP_USER_AGENT,Validate HTTP_USER_AGENT,module,Magento_Backend
 Use SID on Storefront,Use SID on Storefront,module,Magento_Backend
-Allows customers to stay logged in when switching between different stores.,Allows customers to stay logged in when switching between different stores.,module,Magento_Backend
+Allows customers to stay logged in when switching between different stores.,Memungkinkan pelanggan untuk tetap login bila beralih antara toko yang berbeda.,module,Magento_Backend
 Cache Type,Cache Type,module,Magento_Backend
 Description,Description,module,Magento_Backend
 Tags,Tags,module,Magento_Backend

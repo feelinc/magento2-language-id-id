@@ -8,6 +8,10 @@ Klik gambar dibawah
 [![Donasi](https://www.sulaeman.com/wp-content/uploads/2017/01/paypal-logo-donation.png)](https://www.paypal.me/sulaeman)
 
 ## UPDATES
+-|- 24-01-2017 (Sulaeman)
+   - Magento_Backend (partial)
+   - Magento_Catalog (in progress)
+
 -|- 23-01-2017 (Sulaeman)
    - MagePal_GmailSmtpApp (done)
    - Magento_AdminNotification (done)
